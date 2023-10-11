@@ -5,7 +5,7 @@ log option: GitHub
 3. review function
 
 future optimization:
-1. data tracking (tableau, timely refresh)
+1. data tracking/visualization (tableau, timely refresh)
 2. database for automation
 3. code models
 4. optimized parameters for assay
