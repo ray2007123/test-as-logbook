@@ -1,1 +1,1 @@
-E#1: ISWAP error
+#1. error message: ISWAP error; ECN: 70969; Operator: Initial; I&D;
